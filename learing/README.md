@@ -1,3 +1,0 @@
-# Larning Record
-
-Welcome!

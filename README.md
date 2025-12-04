@@ -1,3 +1,0 @@
-# My Learning Portfolio
-
-Welcome!

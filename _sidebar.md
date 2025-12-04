@@ -1,9 +1,0 @@
-- [首頁](README.md)
-
-* [學習記錄](/learning/ "學習記錄")
-  - [Intro](learning/intro.md)
-  - [JS 基礎](learning/js-basic.md)
-  - [React 筆記](learning/react-notes.md)
-* [作品集](/projects/ "作品集")
-  - [Project 1](projects/project1/index.html)
-  - [Project 2](projects/project2/index.html)
