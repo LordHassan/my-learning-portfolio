@@ -1,4 +1,4 @@
 - [學習記錄](/learning/ "學習記錄")
   - [開發者技術](learning/dev/ "開發者技術")
-  - [API 文件](learning/api/ "API 文件")
+  - [API 文件](learning/API/ "API 文件")
 - [作品集](/projects/ "作品集")
