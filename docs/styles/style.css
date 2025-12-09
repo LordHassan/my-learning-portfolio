@@ -1,0 +1,11 @@
+.root {
+  --sidebar-color--active: #3cd466;
+}
+.renderBox {
+  color: #fff;
+  background-color: #324d5b; /* 淺灰色背景 */
+  padding: 20px; /* 內邊距 */
+  margin-bottom: 15px; /* 底部外邊距 */
+  border-radius: 8px; /* 圓角 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 陰影 */
+}

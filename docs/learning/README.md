@@ -1,3 +1,13 @@
-# learning
+# 學習筆記
 
-> 學習記錄
+<span style="font-size:20px;">
+
+- [git 版本控制](/learning/gitControl/)
+
+- [Markdown 語法](/learning/Markdown/)
+
+- [VS code 常用 short cut](/learning/vs/)
+
+- Fourth item
+
+</span>

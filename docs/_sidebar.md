@@ -1,4 +1,8 @@
-- [學習記錄](/learning/ "學習記錄")
-  - [開發者技術](learning/dev/ "開發者技術")
-  - [API 文件](learning/API/ "API 文件")
+- [學習筆記](/learning/ "Notes")
+
+  - [git 版本控制](learning/gitControl/ "Git")
+  - [MarkDown 語法](learning/MarkDown/ "MarkDown")
+
+  - [VS Code](learning/vs/ "VS Code")
+
 - [作品集](/projects/ "作品集")
