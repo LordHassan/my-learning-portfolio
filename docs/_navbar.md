@@ -1,3 +1,3 @@
-- :blue_book:我的學習記錄及作品集
-  - [學習記錄](/learning/)
+- :blue_book:我的學習筆記及作品集
+  - [學習筆記](/learning/)
   - [作品集](/projects/)

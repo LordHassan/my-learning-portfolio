@@ -1,7 +1,7 @@
 .root {
   --sidebar-color--active: #3cd466;
 }
-.renderBox {
+div.renderBox {
   color: #fff;
   background-color: #324d5b; /* 淺灰色背景 */
   padding: 20px; /* 內邊距 */
