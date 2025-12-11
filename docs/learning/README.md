@@ -6,7 +6,7 @@
 
 - [MarkDown 語法](/learning/MarkDown/)
 
-- [VS code 常用 short cut](/learning/vs/)
+- [VS code ](/learning/vs/)
 
 - Fourth item
 
